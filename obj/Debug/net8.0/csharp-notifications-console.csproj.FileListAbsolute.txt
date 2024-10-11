@@ -1,0 +1,15 @@
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\bin\Debug\net8.0\csharp-notifications-console.exe
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\bin\Debug\net8.0\csharp-notifications-console.deps.json
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\bin\Debug\net8.0\csharp-notifications-console.runtimeconfig.json
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\bin\Debug\net8.0\csharp-notifications-console.dll
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\bin\Debug\net8.0\csharp-notifications-console.pdb
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\obj\Debug\net8.0\csharp-notifications-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\obj\Debug\net8.0\csharp-notifications-console.AssemblyInfoInputs.cache
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\obj\Debug\net8.0\csharp-notifications-console.AssemblyInfo.cs
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\obj\Debug\net8.0\csharp-notifications-console.csproj.CoreCompileInputs.cache
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\obj\Debug\net8.0\csharp-notifications-console.sourcelink.json
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\obj\Debug\net8.0\csharp-notifications-console.dll
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\obj\Debug\net8.0\refint\csharp-notifications-console.dll
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\obj\Debug\net8.0\csharp-notifications-console.pdb
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\obj\Debug\net8.0\csharp-notifications-console.genruntimeconfig.cache
+C:\Users\Korb Daven\Desktop\Full Stack\C#\csharp-notifications-console\obj\Debug\net8.0\ref\csharp-notifications-console.dll
